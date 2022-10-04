@@ -1,5 +1,5 @@
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
-main(){
-    cout << 999 << endl;
+int main(){
+    cout << 5 + 7 <<endl;
 }
